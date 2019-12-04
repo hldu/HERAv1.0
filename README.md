@@ -432,4 +432,4 @@ Du, H., Liang, C. (2018). Assembly of chromosome-scale contigs by efficiently re
 
 #  Seeking Help
 
-The detailed usage is described in the man page available together with the source code. If you have questions about HERA, you may send the questions to cliang@genetics.ac.cn or huilongdu@genetics.ac.cn.
+The detailed usage is described in the man page available together with the source code. If you have questions about HERA, you may send the questions to cliang@genetics.ac.cn.
