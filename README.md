@@ -50,6 +50,8 @@ The running of HERA requires a few other software programs.
     
     set DALIGNER=~/DALIGNER-master/
     
+    set MinPathNum=3
+    
       
  5. Run the pipeline.sh, assuming that the job scheduling system of the cluster has been configured in the scripts of "04-Qsub-Mapping2Ctg.pl", "08-qsub_job_index.pl", "21-Daligner_New.pl" and "09-Qsub-Pair_Alignment.pl".
  
